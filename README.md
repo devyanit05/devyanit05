@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @devyanit05
-- 👀 Things that seems impossible, excite me!
-- 🌱 I’m currently focusing majorly on website development, particularly working with MERN Stack. Also, trying to implement Machine 
-Learning Algorithms.
-- 🐧 I've prior knowledge of website frontend development(React), object oriented programming in java, python, C programming and data structutre algorithms.
-- 💞️ I’m looking forward to collaborate with someone who needs website developer or UI/UX designer.
-- 📫 How to reach me: Linkedin ID - https://www.linkedin.com/in/devyani-thokal/
-                       Instagram Handle - https://www.instagram.com/_devyani.thokal_/
+# Hi there, I'm Devyani 👋
 
+## About Me
+🎓 I'm an engineering student and a passionate software developer. I specialize in Python, JavaScript, and Java, with a strong proficiency in automation testing. Currently, I'm diving into the world of DevOps.
 
+## Skills
+🛠️ **Languages**: Python, JavaScript, Java, TypeScript
+🌐 **Frameworks**: React, Node.js, Django,  Cucumber, Selenium    
+🔧 **Tools**: Git, Docker, Kubernetes, Openshift, Playwright
+🚀 **DevOps**: Learning CI/CD, Jenkins, Ansible
+
+## Projects
+📌 Project 1: A Python-based automation tool that simplifies testing processes.  
+📌 Project 2: A JavaScript web application for managing tasks and projects.  
+📌 Project 3: A Java application for data analysis and visualization.
+
+## GitHub Stats
+!Your GitHub Stats
+!Top Languages
+!GitHub Streak
+!GitHub Trophies
+
+## Connect with Me
+!LinkedIn
+!Twitter
