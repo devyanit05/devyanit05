@@ -21,5 +21,4 @@
 !GitHub Trophies
 
 ## Connect with Me
-!LinkedIn
-!Twitter
+https://www.linkedin.com/in/devyani-thokal/
