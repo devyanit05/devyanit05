@@ -61,11 +61,11 @@ AWS • Docker • Kubernetes • Jenkins • GitHub Actions • Linux
 
 Prometheus • Grafana
 
-## Databases
+### Databases
 
 Oracle SQL
 
-## Tools
+### Tools
 
 Git • TeamCity • Jira • VS Code • Cursor
 
