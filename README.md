@@ -2,9 +2,9 @@
 
 **SDET | Test Automation & DevOps**
 
-I build test automation frameworks and CI/CD pipelines that help engineering teams ship with confidence. Currently working as a Quality Engineer at Regnology, where I own automation end-to-end — from framework design to pipeline architecture to infrastructure cost optimisation.
+I build test automation frameworks and CI/CD pipelines that help engineering teams ship with confidence. Currently working as a Software Development Engineer in Test (SDET) at Regnology, contributing to end-to-end automation - from framework development and CI/CD pipelines to infrastructure optimization initiatives.
 
-🔭 Currently exploring **Playwright + Java/TypeScript** to broaden my automation toolkit
+🔭 Expanding into Kubernetes, Terraform, and production-grade platform engineering
 🌱 Sharpening my skills in **system design** and **secure test architecture**
 💬 Always happy to talk **test strategy, CI/CD, or Python automation**
 📫 Reach me at **devyaninthokal@gmail.com**
