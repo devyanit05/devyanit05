@@ -6,7 +6,7 @@
 
 I build automation systems that make software delivery **faster, safer, and more reliable**.
 
-Currently working as a **Quality Engineer at Regnology**, where I contribute to enterprise-scale test automation, CI/CD workflows, infrastructure optimization, and developer productivity.
+Currently working as a **Software Engineer (SDET) at Regnology**, where I contribute to enterprise-scale test automation, CI/CD workflows, infrastructure optimization, and developer productivity.
 
 ---
 
