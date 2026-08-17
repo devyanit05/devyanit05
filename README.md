@@ -1,90 +1,186 @@
-# Hi, I'm Devyani 👋
+<div align="center">
 
-**SDET | Test Automation & DevOps**
+# Hi, I'm Devyani Thokal 👋
 
-I build test automation frameworks and CI/CD pipelines that help engineering teams ship with confidence. Currently working as a Software Development Engineer in Test (SDET) at Regnology, contributing to end-to-end automation - from framework development and CI/CD pipelines to infrastructure optimization initiatives.
+### Software Engineer (SDET) • Test Automation • Cloud • DevOps
 
-🔭 Expanding into Kubernetes, Terraform, and production-grade platform engineering
-🌱 Sharpening my skills in **system design** and **secure test architecture**
-💬 Always happy to talk **test strategy, CI/CD, or Python automation**
-📫 Reach me at **devyaninthokal@gmail.com**
+I build automation systems that make software delivery **faster, safer, and more reliable**.
 
----
-
-## 🛠️ Tech Stack
-
-**Languages & Scripting**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-**Test Automation**
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**CI/CD & DevOps**
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-
-**Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
-**Observability & Tools**
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+Currently working as a **Quality Engineer at Regnology**, where I contribute to enterprise-scale test automation, CI/CD workflows, infrastructure optimization, and developer productivity.
 
 ---
 
-## 🚀 What I've Built
+### 🌱 Currently Building
 
-**Custom Test Automation Tooling**
-Designed and shipped enhancements to an internal end-to-end test framework — config-driven Jenkins pipelines that orchestrate sequential API calls, validate test results, and publish reports automatically.
+🚀 Enterprise CI/CD Platform  
+🤖 AI-powered Release Engineer  
+☁️ AWS Infrastructure with Terraform
 
-**Data Validation at Scale**
-Built a Python framework comparing XML and Excel outputs cell-by-cell for a large migration project — cut manual validation effort by ~90%, packaged as a reusable Jenkins job.
-
-**Infrastructure Cost Optimisation**
-Analysed GCP performance metrics via Prometheus/Grafana and proposed a memory allocation fix that reduced infrastructure costs by 15–25% on one portfolio.
+</div>
 
 ---
 
-## 📌 Featured Projects
+# 👩🏻‍💻 About Me
 
-- 🔹 **[Multi-Tool CI/CD Pipeline with Monitoring](https://github.com/devyanit05)** — End-to-end CI/CD for a Node.js microservices app: Jenkins, Docker, Kubernetes, Artifactory, vulnerability scanning, Prometheus/Grafana observability.
+I'm a Software Engineer specializing in **test automation, cloud technologies, and DevOps practices**.
 
----
+My experience spans designing automation frameworks, building Python tooling, optimizing CI/CD pipelines, improving infrastructure efficiency, and developing solutions that reduce manual effort for engineering teams.
 
-## 📜 Certifications
-
-- ✅ AWS Certified Developer (DVA-C02)
-- ✅ AWS Certified Cloud Practitioner (CLF-C02)
-- ✅ GH-200: GitHub Actions Certification (Microsoft)
-- ✅ DevOps Professional Certificate (PagerDuty)
-- ✅ Docker Foundations Professional Certificate
+I'm passionate about solving engineering problems through automation and continuously expanding my expertise in cloud infrastructure, platform engineering, and AI-assisted developer workflows.
 
 ---
 
-## 📊 GitHub Stats
+# ⚡ What I Do
 
-![Devyani's GitHub stats](https://github-readme-stats.vercel.app/api?username=devyanit05&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devyanit05&layout=compact&theme=tokyonight&hide_border=true)
+- 🧪 Build scalable automation frameworks
+- 🐍 Develop Python tools for engineering teams
+- 🚀 Design CI/CD pipelines using Jenkins & GitHub Actions
+- ☁️ Deploy cloud-native applications on AWS
+- 🐳 Containerize applications with Docker
+- ☸️ Explore Kubernetes & platform engineering
+- 📊 Improve observability using Prometheus & Grafana
+- 🤖 Build AI-assisted engineering tools using LLMs
 
 ---
 
-## 🤝 Connect with Me
+# 🛠 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devyani-thokal/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:devyaninthokal@gmail.com)
+## Languages
+
+Python • TypeScript • Java • SQL • Bash
+
+## Test Automation
+
+Playwright • Selenium • Cucumber • Pytest • REST APIs
+
+## Cloud & DevOps
+
+AWS • Docker • Kubernetes • Jenkins • GitHub Actions • Linux
+
+## Monitoring
+
+Prometheus • Grafana
+
+## Databases
+
+Oracle SQL
+
+## Tools
+
+Git • TeamCity • Jira • VS Code • Cursor
 
 ---
 
-⭐️ *Quality isn't a phase — it's built into every line of the pipeline.*
+# 🚀 Engineering Highlights
+
+### ⚙️ Enterprise Test Automation
+
+Designed and enhanced enterprise automation frameworks for regulatory reporting products, improving execution reliability and reducing manual testing effort.
+
+---
+
+### 📊 Data Validation Framework
+
+Built a Python framework for XML vs Excel comparison capable of validating thousands of records automatically, reducing manual validation effort by approximately **90%**.
+
+---
+
+### ☁️ Infrastructure Optimization
+
+Analyzed Prometheus and Grafana metrics to identify inefficient memory allocation, contributing to infrastructure optimization that reduced cloud costs by **15–25%**.
+
+---
+
+### 🔄 CI/CD Automation
+
+Built configuration-driven Jenkins pipelines capable of orchestrating sequential API execution, automated validation, and report publishing.
+
+---
+
+# 📂 Featured Projects
+
+### 🚀 Enterprise CI/CD Platform *(In Progress)*
+
+Production-inspired DevOps platform featuring:
+
+- Jenkins
+- Docker
+- Kubernetes
+- GitHub Actions
+- SonarQube
+- Trivy
+- Prometheus
+- Grafana
+
+---
+
+### 🤖 AI Release Engineer *(In Progress)*
+
+An AI-powered engineering assistant capable of:
+
+- Build log analysis
+- Root cause detection
+- Release note generation
+- Automated deployment summaries
+- AI-assisted debugging
+
+---
+
+### ☁️ AWS Infrastructure with Terraform *(Upcoming)*
+
+Infrastructure-as-Code project demonstrating:
+
+- VPC
+- EC2
+- ALB
+- Auto Scaling
+- IAM
+- CloudWatch
+- Terraform
+
+---
+
+# 📜 Certifications
+
+- ✅ AWS Certified Developer – Associate
+- ✅ AWS Certified Cloud Practitioner
+- ✅ GitHub Actions Certification
+- ✅ PagerDuty DevOps Professional
+- ✅ Docker Foundations Professional
+
+---
+
+# 🎯 Currently Learning
+
+- Terraform
+- Helm
+- Kubernetes
+- Platform Engineering
+- Site Reliability Engineering
+- AI for Developer Productivity
+
+---
+
+# 📫 Let's Connect
+
+📧 **Email**
+
+**devyaninthokal@gmail.com**
+
+💼 **LinkedIn**
+
+linkedin.com/in/devyani-thokal
+
+🌐 **Portfolio**
+
+Coming Soon 🚀
+
+---
+
+<div align="center">
+
+### *"Quality isn't a phase. It's engineered into every deployment."*
+
+⭐ If you like my work, consider following my journey!
+
+</div>
