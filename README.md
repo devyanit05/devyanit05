@@ -169,7 +169,7 @@ Infrastructure-as-Code project demonstrating:
 
 💼 **LinkedIn**
 
-**linkedin.com/in/devyani-thokal**
+**[linkedin.com/in/devyani-thokal](https://www.linkedin.com/in/devyani-thokal/)**
 
 🌐 **Portfolio**
 
