@@ -45,19 +45,19 @@ I'm passionate about solving engineering problems through automation and continu
 
 # 🛠 Tech Stack
 
-## Languages
+### Languages
 
 Python • TypeScript • Java • SQL • Bash
 
-## Test Automation
+### Test Automation
 
 Playwright • Selenium • Cucumber • Pytest • REST APIs
 
-## Cloud & DevOps
+### Cloud & DevOps
 
 AWS • Docker • Kubernetes • Jenkins • GitHub Actions • Linux
 
-## Monitoring
+### Monitoring
 
 Prometheus • Grafana
 
